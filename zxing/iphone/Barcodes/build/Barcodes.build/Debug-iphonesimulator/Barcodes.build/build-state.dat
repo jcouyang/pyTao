@@ -1,0 +1,1713 @@
+TBarcodes
+v7
+r0
+t343827680.815827
+cCheck dependencies
+cProcessInfoPlistFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/Info.plist Barcodes-Info.plist
+cCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Barcodes.app/icon.png images/icon.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/icon@2x.png images/icon@2x.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/ZxingLarge.png images/ZxingLarge.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/beep-beep.aiff beep-beep.aiff
+cCpResource build/Debug-iphonesimulator/Barcodes.app/de.lproj/About.html de.lproj/About.html
+cCpResource build/Debug-iphonesimulator/Barcodes.app/en.lproj/About.html en.lproj/About.html
+cCpResource build/Debug-iphonesimulator/Barcodes.app/sv.lproj/About.html sv.lproj/About.html
+cCpResource build/Debug-iphonesimulator/Barcodes.app/fr.lproj/About.html fr.lproj/About.html
+cCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/DecoderView.xib
+cCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/DecoderView.xib
+cCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/DecoderView.xib
+cCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/DecoderView.xib
+cCpResource build/Debug-iphonesimulator/Barcodes.app/de.lproj/Hints.html de.lproj/Hints.html
+cCpResource build/Debug-iphonesimulator/Barcodes.app/en.lproj/Hints.html en.lproj/Hints.html
+cCpResource build/Debug-iphonesimulator/Barcodes.app/sv.lproj/Hints.html sv.lproj/Hints.html
+cCpResource build/Debug-iphonesimulator/Barcodes.app/fr.lproj/Hints.html fr.lproj/Hints.html
+cCopyStringsFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj/InfoPlist.strings de.lproj/InfoPlist.strings
+cCopyStringsFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+cCopyStringsFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj/InfoPlist.strings sv.lproj/InfoPlist.strings
+cCopyStringsFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj/InfoPlist.strings fr.lproj/InfoPlist.strings
+cCopyStringsFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj/Localizable.strings fr.lproj/Localizable.strings
+cCopyStringsFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj/Localizable.strings de.lproj/Localizable.strings
+cCopyStringsFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCopyStringsFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj/Localizable.strings sv.lproj/Localizable.strings
+cCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/MainWindow.xib
+cCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/MainWindow.xib
+cCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/MainWindow.xib
+cCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/MainWindow.xib
+cCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/Message.xib
+cCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/Message.xib
+cCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/Message.xib
+cCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/Message.xib
+cCpResource build/Debug-iphonesimulator/Barcodes.app/business-card.png images/business-card.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/Default.png images/Default.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/email.png images/email.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/filmroll-2.png images/filmroll-2.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/link1.png images/link1.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/link2.png images/link2.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/map-pin.png images/map-pin.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/phone.png images/phone.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/photolib.png images/photolib.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/sms.png images/sms.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/text.png images/text.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/scans.db scans.db
+cCpResource build/Debug-iphonesimulator/Barcodes.app/Default@2x.png images/Default@2x.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/LatestResultBackground.png images/LatestResultBackground.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/LatestResultBackground@2x.png images/LatestResultBackground@2x.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/clickHere.png images/clickHere.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/ZxingLarge@2x.png images/ZxingLarge@2x.png
+cCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/ZXMainViewController.xib
+cCpResource build/Debug-iphonesimulator/Barcodes.app/Scanning.png images/Scanning.png
+cCpResource build/Debug-iphonesimulator/Barcodes.app/Scanning@2x.png images/Scanning@2x.png
+cProcessPCH++ /var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-hbanotstsyunrlfenligcxpwobfl/Barcodes_Prefix.pch.gch Barcodes_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-cnbibiddkekuyvdpjnpnzctaqfyh/Barcodes_Prefix.pch.gch Barcodes_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/main.o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/main.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/BarcodesAppDelegate.o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/BarcodesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ZXMainViewController.o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ZXMainViewController.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/MessageViewController.o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/MessageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ArchiveController.o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ArchiveController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/Database.o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/Database.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/Scan.o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/Scan.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ScanCell.o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ScanCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ScanViewController.o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ScanViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/Barcodes normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC128840000000000000733
+t1287727236
+s1843
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004CC122E10000000000075FE0
+t1287725793
+s483296
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004CC129090000000000151F20
+t1287727369
+s1384224
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC1222F0000000000000A23
+t1287725615
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004CC127FC0000000000063DD0
+t1287727100
+s409040
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004CC122DE0000000000018050
+t1287725790
+s98384
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sqlite3.h
+c000000004CC109C90000000000042B54
+t1287719369
+s273236
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libiconv.dylib
+c000000004AD4F6DB00000000000049DC
+t1255470811
+s18908
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libsqlite3.dylib
+c000000004CC109D90000000000092C20
+t1287719385
+s601120
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/cpp/core/src/zxing/BarcodeFormat.h
+c000000004DEFD277000000000000049A
+t1307562615
+s1178
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/cpp/core/src/zxing/Binarizer.h
+c000000004DEFD2770000000000000501
+t1307562615
+s1281
+i<zxing/LuminanceSource.h>
+i<zxing/common/BitArray.h>
+i<zxing/common/BitMatrix.h>
+i<zxing/common/Counted.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/cpp/core/src/zxing/BinaryBitmap.h
+c000000004DEFD27700000000000005B1
+t1307562615
+s1457
+i<zxing/common/Counted.h>
+i<zxing/common/BitMatrix.h>
+i<zxing/common/BitArray.h>
+i<zxing/Binarizer.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/cpp/core/src/zxing/DecodeHints.h
+c000000004DEFD27700000000000008BB
+t1307562615
+s2235
+i<zxing/BarcodeFormat.h>
+i<zxing/ResultPointCallback.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/cpp/core/src/zxing/Exception.h
+c000000004DEFD27700000000000003D3
+t1307562615
+s979
+i<string>
+i<exception>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/cpp/core/src/zxing/LuminanceSource.h
+c000000004DEFD2770000000000000590
+t1307562615
+s1424
+i<zxing/common/Counted.h>
+i<string.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/cpp/core/src/zxing/Reader.h
+c000000004DEFD2770000000000000421
+t1307562615
+s1057
+i<zxing/BinaryBitmap.h>
+i<zxing/Result.h>
+i<zxing/DecodeHints.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/cpp/core/src/zxing/Result.h
+c000000004DEFD27700000000000005E7
+t1307562615
+s1511
+i<string>
+i<vector>
+i<zxing/common/Array.h>
+i<zxing/common/Counted.h>
+i<zxing/common/Str.h>
+i<zxing/ResultPoint.h>
+i<zxing/BarcodeFormat.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/cpp/core/src/zxing/ResultPoint.h
+c000000004DEFD27700000000000003C7
+t1307562615
+s967
+i<zxing/common/Counted.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/cpp/core/src/zxing/ResultPointCallback.h
+c000000004DEFD2770000000000000418
+t1307562615
+s1048
+i<zxing/common/Counted.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/cpp/core/src/zxing/common/Array.h
+c000000004DEFD27600000000000013B9
+t1307562614
+s5049
+i<vector>
+i<iostream>
+i<typeinfo>
+i<zxing/common/Counted.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/cpp/core/src/zxing/common/BitArray.h
+c000000004DEFD27600000000000005A7
+t1307562614
+s1447
+i<zxing/common/Counted.h>
+i<zxing/common/IllegalArgumentException.h>
+i<vector>
+i<iostream>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/cpp/core/src/zxing/common/BitMatrix.h
+c000000004DEFD2760000000000000683
+t1307562614
+s1667
+i<zxing/common/Counted.h>
+i<zxing/common/BitArray.h>
+i<limits>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/cpp/core/src/zxing/common/Counted.h
+c000000004DEFD27600000000000011E6
+t1307562614
+s4582
+i<iostream>
+i<typeinfo>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/cpp/core/src/zxing/common/IllegalArgumentException.h
+c000000004DEFD27600000000000003E4
+t1307562614
+s996
+i<zxing/Exception.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/cpp/core/src/zxing/common/Str.h
+c000000004DEFD2760000000000000401
+t1307562614
+s1025
+i<string>
+i<iostream>
+i<zxing/common/Counted.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Barcodes_Prefix.pch
+c000000004DEFD27700000000000000B9
+t1307562615
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ArchiveController.h
+c000000004DEFD2770000000000000507
+t1307562615
+s1287
+i<UIKit/UIKit.h>
+i"ModalViewControllerDelegate.h"
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ArchiveController.m
+c000000004DEFD2770000000000001639
+t1307562615
+s5689
+i"ArchiveController.h"
+i"Database.h"
+i"Scan.h"
+i"UniversalResultParser.h"
+i"ParsedResult.h"
+i"ScanViewController.h"
+i"ScanCell.h"
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/BarcodesAppDelegate.h
+c000000004DEFD27700000000000001C3
+t1307562615
+s451
+i<UIKit/UIKit.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/BarcodesAppDelegate.m
+c000000004DEFD2770000000000000A34
+t1307562615
+s2612
+i"BarcodesAppDelegate.h"
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/Database.h
+c000000004DEFD27700000000000003EE
+t1307562615
+s1006
+i<UIKit/UIKit.h>
+i<sqlite3.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/Database.m
+c000000004DEFD2770000000000001169
+t1307562615
+s4457
+i"Database.h"
+i"Scan.h"
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/MessageViewController.h
+c000000004DEFD27700000000000005D7
+t1307562615
+s1495
+i<UIKit/UIKit.h>
+i"ModalViewControllerDelegate.h"
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/MessageViewController.m
+c000000004DEFD2770000000000000BB9
+t1307562615
+s3001
+i"MessageViewController.h"
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ModalViewControllerDelegate.h
+c000000004DEFD2770000000000000134
+t1307562615
+s308
+i<UIKit/UIKit.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/Scan.h
+c000000004DEFD27700000000000003D0
+t1307562615
+s976
+i<UIKit/UIKit.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/Scan.m
+c000000004DEFD2770000000000000411
+t1307562615
+s1041
+i"Scan.h"
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ScanCell.h
+c000000004DEFD2770000000000000487
+t1307562615
+s1159
+i<UIKit/UIKit.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ScanCell.m
+c000000004DEFD2770000000000001495
+t1307562615
+s5269
+i"ScanCell.h"
+i"Scan.h"
+i"ParsedResult.h"
+i"ResultParser.h"
+i"UniversalResultParser.h"
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ScanViewController.h
+c000000004DEFD277000000000000047B
+t1307562615
+s1147
+i<UIKit/UIKit.h>
+i"Scan.h"
+i"ParsedResult.h"
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ScanViewController.m
+c000000004DEFD2770000000000002055
+t1307562615
+s8277
+i"ScanViewController.h"
+i"ResultAction.h"
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ZXMainViewController.h
+c000000004DEFD2770000000000000356
+t1307562615
+s854
+i<UIKit/UIKit.h>
+i"ZXingWidgetController.h"
+i"MessageViewController.h"
+i"ModalViewControllerDelegate.h"
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ZXMainViewController.mm
+c000000004DEFD2770000000000001509
+t1307562615
+s5385
+i"ZXMainViewController.h"
+i<QRCodeReader.h>
+i<UniversalResultParser.h>
+i<ParsedResult.h>
+i<ResultAction.h>
+i"ArchiveController.h"
+i"Database.h"
+i"ScanViewController.h"
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/MainWindow.xib
+c000000004DEFD2770000000000009136
+t1307562615
+s37174
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/ZXMainViewController.xib
+c000000004DEFD2770000000000005F79
+t1307562615
+s24441
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/beep-beep.aiff
+c000000004DEFD27700000000000101FE
+t1307562615
+s66046
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ArchiveController.o
+t1322134461
+s61060
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/Barcodes.LinkFileList
+c000000004ECE2BAE00000000000005EA
+t1322134446
+s1514
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/BarcodesAppDelegate.o
+t1322134460
+s53652
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/Database.o
+t1322134461
+s19520
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/MessageViewController.o
+t1322134460
+s53984
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/Scan.o
+t1322134461
+s10588
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ScanCell.o
+t1322134461
+s58384
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ScanViewController.o
+t1322134461
+s67760
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ZXMainViewController.o
+t1322134461
+s123648
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/main.o
+t1322134460
+s6600
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app
+t1322134455
+s1122
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app.dSYM
+t2
+s0
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/Barcodes
+t2
+s0
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/Default.png
+t1322134454
+s48476
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/Default@2x.png
+t1322134454
+s122298
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/Info.plist
+t1322134447
+s972
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/LatestResultBackground.png
+t1322134454
+s9901
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/LatestResultBackground@2x.png
+t1322134454
+s16527
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/MainWindow.nib
+t1322134448
+s2257
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/PkgInfo
+t1322134447
+s8
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/Scanning.png
+t1322134455
+s4337
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/Scanning@2x.png
+t1322134455
+s7223
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/ZXMainViewController.nib
+t1322134455
+s1890
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/ZxingLarge.png
+t1322134447
+s19016
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/ZxingLarge@2x.png
+t1322134454
+s41911
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/beep-beep.aiff
+t1322134447
+s66046
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/business-card.png
+t1322134454
+s334
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/clickHere.png
+t1322134454
+s6848
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj/About.html
+t1322134447
+s766
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj/DecoderView.nib
+t1322134448
+s2077
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj/Hints.html
+t1322134450
+s1063
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj/InfoPlist.strings
+t1322134450
+s80
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj/Localizable.strings
+t1322134451
+s2472
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj/MainWindow.nib
+t1322134451
+s958
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj/Message.nib
+t1322134453
+s976
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/email.png
+t1322134454
+s608
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj/About.html
+t1322134447
+s751
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj/DecoderView.nib
+t1322134449
+s2074
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj/Hints.html
+t1322134450
+s1009
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj/InfoPlist.strings
+t1322134450
+s77
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj/Localizable.strings
+t1322134451
+s2424
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj/MainWindow.nib
+t1322134451
+s919
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj/Message.nib
+t1322134453
+s976
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/filmroll-2.png
+t1322134454
+s326
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj/About.html
+t1322134447
+s764
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj/DecoderView.nib
+t1322134450
+s2073
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj/Hints.html
+t1322134450
+s1009
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj/InfoPlist.strings
+t1322134450
+s77
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj/Localizable.strings
+t1322134450
+s2869
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj/MainWindow.nib
+t1322134452
+s958
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj/Message.nib
+t1322134454
+s976
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/icon.png
+t1322134447
+s3713
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/icon@2x.png
+t1322134447
+s10959
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/link1.png
+t1322134454
+s578
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/link2.png
+t1322134454
+s340
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/map-pin.png
+t1322134454
+s515
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/phone.png
+t1322134454
+s417
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/photolib.png
+t1322134454
+s204
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/scans.db
+t1322134454
+s2048
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sms.png
+t1322134454
+s657
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj/About.html
+t1322134447
+s754
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj/DecoderView.nib
+t1322134449
+s2080
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj/Hints.html
+t1322134450
+s1025
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj/InfoPlist.strings
+t1322134450
+s80
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj/Localizable.strings
+t1322134451
+s2519
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj/MainWindow.nib
+t1322134452
+s958
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj/Message.nib
+t1322134454
+s976
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/text.png
+t1322134454
+s376
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/About.html
+c000000004DEFD27700000000000002FE
+t1307562615
+s766
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/DecoderView.xib
+c000000004DEFD2770000000000004874
+t1307562615
+s18548
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/Hints.html
+c000000004DEFD2770000000000000427
+t1307562615
+s1063
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/InfoPlist.strings
+c000000004DEFD2770000000000000024
+t1307562615
+s36
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/Localizable.strings
+c000000004DEFD2770000000000000CB1
+t1307562615
+s3249
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/MainWindow.xib
+c000000004DEFD2770000000000001B4D
+t1307562615
+s6989
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/Message.xib
+c000000004DEFD2770000000000004A16
+t1307562615
+s18966
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/About.html
+c000000004DEFD27700000000000002EF
+t1307562615
+s751
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/DecoderView.xib
+c000000004DEFD2770000000000004873
+t1307562615
+s18547
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/Hints.html
+c000000004DEFD27700000000000003F1
+t1307562615
+s1009
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/InfoPlist.strings
+c000000004DEFD2770000000000000021
+t1307562615
+s33
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/Localizable.strings
+c000000004DEFD2770000000000000DFF
+t1307562615
+s3583
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/MainWindow.xib
+c000000004DEFD277000000000000403A
+t1307562615
+s16442
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/Message.xib
+c000000004DEFD2770000000000004A16
+t1307562615
+s18966
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/About.html
+c000000004DEFD27700000000000002FC
+t1307562615
+s764
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/DecoderView.xib
+c000000004DEFD2770000000000004873
+t1307562615
+s18547
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/Hints.html
+c000000004DEFD27700000000000003F1
+t1307562615
+s1009
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/InfoPlist.strings
+c000000004DEFD2770000000000000021
+t1307562615
+s33
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/Localizable.strings
+c000000004DEFD2770000000000000E8A
+t1307562615
+s3722
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/MainWindow.xib
+c000000004DEFD2770000000000001B4D
+t1307562615
+s6989
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/Message.xib
+c000000004DEFD2770000000000004A16
+t1307562615
+s18966
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/Default.png
+c000000004DEFD277000000000000BD5C
+t1307562615
+s48476
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/Default@2x.png
+c000000004DEFD277000000000001DDBA
+t1307562615
+s122298
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/LatestResultBackground.png
+c000000004DEFD27700000000000026AD
+t1307562615
+s9901
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/LatestResultBackground@2x.png
+c000000004DEFD277000000000000408F
+t1307562615
+s16527
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/Scanning.png
+c000000004DEFD27700000000000010F1
+t1307562615
+s4337
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/Scanning@2x.png
+c000000004DEFD2770000000000001C37
+t1307562615
+s7223
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/ZxingLarge.png
+c000000004DEFD2770000000000004A48
+t1307562615
+s19016
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/ZxingLarge@2x.png
+c000000004DEFD277000000000000A3B7
+t1307562615
+s41911
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/business-card.png
+c000000004DEFD277000000000000014E
+t1307562615
+s334
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/clickHere.png
+c000000004DEFD2770000000000001AC0
+t1307562615
+s6848
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/email.png
+c000000004DEFD2770000000000000260
+t1307562615
+s608
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/filmroll-2.png
+c000000004DEFD2770000000000000146
+t1307562615
+s326
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/icon.png
+c000000004DEFD2770000000000000E81
+t1307562615
+s3713
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/icon@2x.png
+c000000004DEFD2770000000000002ACF
+t1307562615
+s10959
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/link1.png
+c000000004DEFD2770000000000000242
+t1307562615
+s578
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/link2.png
+c000000004DEFD2770000000000000154
+t1307562615
+s340
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/map-pin.png
+c000000004DEFD2770000000000000203
+t1307562615
+s515
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/phone.png
+c000000004DEFD27700000000000001A1
+t1307562615
+s417
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/photolib.png
+c000000004DEFD27700000000000000CC
+t1307562615
+s204
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/sms.png
+c000000004DEFD2770000000000000291
+t1307562615
+s657
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/text.png
+c000000004DEFD2770000000000000178
+t1307562615
+s376
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/main.mm
+c000000004DEFD277000000000000016F
+t1307562615
+s367
+i<UIKit/UIKit.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/scans.db
+c000000004DEFD2770000000000000800
+t1307562615
+s2048
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/About.html
+c000000004DEFD27700000000000002F2
+t1307562615
+s754
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/DecoderView.xib
+c000000004DEFD2770000000000004874
+t1307562615
+s18548
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/Hints.html
+c000000004DEFD2770000000000000401
+t1307562615
+s1025
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/InfoPlist.strings
+c000000004DEFD2770000000000000024
+t1307562615
+s36
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/Localizable.strings
+c000000004DEFD2770000000000000C7E
+t1307562615
+s3198
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/MainWindow.xib
+c000000004DEFD2770000000000001B4D
+t1307562615
+s6989
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/Message.xib
+c000000004DEFD2770000000000004A16
+t1307562615
+s18966
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/ZXingWidget/Classes/Decoder.h
+c000000004DEFD278000000000000061A
+t1307562616
+s1562
+i<UIKit/UIKit.h>
+i"DecoderDelegate.h"
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/ZXingWidget/Classes/DecoderDelegate.h
+c000000004DEFD27800000000000004E0
+t1307562616
+s1248
+i<UIKit/UIKit.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/ZXingWidget/Classes/FormatReader.h
+c000000004DEFD2780000000000000504
+t1307562616
+s1284
+i<Foundation/Foundation.h>
+i<zxing/common/Counted.h>
+i<zxing/Result.h>
+i<zxing/BinaryBitmap.h>
+i<zxing/Reader.h>
+i<zxing/ResultPointCallback.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/ZXingWidget/Classes/OverlayView.h
+c000000004DEFD2780000000000000545
+t1307562616
+s1349
+i<UIKit/UIKit.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/ZXingWidget/Classes/QRCodeReader.h
+c000000004DEFD278000000000000010D
+t1307562616
+s269
+i<Foundation/Foundation.h>
+i"FormatReader.h"
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/ZXingWidget/Classes/ZXingWidgetController.h
+c000000004DEFD2780000000000000974
+t1307562616
+s2420
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioToolbox.h>
+i<AVFoundation/AVFoundation.h>
+i"Decoder.h"
+i"parsedResults/ParsedResult.h"
+i"OverlayView.h"
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/ZXingWidget/Classes/actions/ResultAction.h
+c000000004DEFD278000000000000037F
+t1307562616
+s895
+i<UIKit/UIKit.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/ZXingWidget/Classes/parsedResults/ParsedResult.h
+c000000004DEFD2780000000000000389
+t1307562616
+s905
+i<UIKit/UIKit.h>
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/ZXingWidget/Classes/resultParsers/ResultParser.h
+c000000004DEFD278000000000000038B
+t1307562616
+s907
+i<UIKit/UIKit.h>
+i"../parsedResults/ParsedResult.h"
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/ZXingWidget/Classes/resultParsers/UniversalResultParser.h
+c000000004DEFD27800000000000001C7
+t1307562616
+s455
+i<Foundation/Foundation.h>
+i"ResultParser.h"
+
+N/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/ZXingWidget/build/Debug-iphonesimulator/libZXingWidget.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-cnbibiddkekuyvdpjnpnzctaqfyh/Barcodes_Prefix.pch.gch
+t1322134459
+s15453392
+
+N/var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-hbanotstsyunrlfenligcxpwobfl/Barcodes_Prefix.pch.gch
+t1322134457
+s16473168
+
+NBarcodes-Info.plist
+c000000004DEFD27700000000000005F6
+t1307562615
+s1526
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies343827680#343827680#0(0"0(0#1#0"4424302000#0"0#
+
+CCompileC build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ArchiveController.o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ArchiveController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343827260.970634
+e343827261.154296
+r1
+xCompileC
+xbuild/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ArchiveController.o
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ArchiveController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ArchiveController.m343827260#343827261#0(0"0(0#0#101"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ArchiveController.m4532506256#2486"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-generated-files.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-own-target-headers.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-all-target-headers.hmap -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-project-headers.hmap -F/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/include -I../../cpp/core/src -I../ZXingWidget/Classes -I../ZXingWidget/Classes/actions -I../ZXingWidget/Classes/parsedResults -I../ZXingWidget/Classes/resultParsers -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources/i386 -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources -include /var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-cnbibiddkekuyvdpjnpnzctaqfyh/Barcodes_Prefix.pch -c /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ArchiveController.m -o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ArchiveController.o0#
+
+CCompileC build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/BarcodesAppDelegate.o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/BarcodesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343827260.607511
+e343827260.823918
+r1
+xCompileC
+xbuild/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/BarcodesAppDelegate.o
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/BarcodesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/BarcodesAppDelegate.m343827260#343827260#0(0"0(0#0#103"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/BarcodesAppDelegate.m4532506256#2490"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-generated-files.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-own-target-headers.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-all-target-headers.hmap -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-project-headers.hmap -F/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/include -I../../cpp/core/src -I../ZXingWidget/Classes -I../ZXingWidget/Classes/actions -I../ZXingWidget/Classes/parsedResults -I../ZXingWidget/Classes/resultParsers -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources/i386 -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources -include /var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-cnbibiddkekuyvdpjnpnzctaqfyh/Barcodes_Prefix.pch -c /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/BarcodesAppDelegate.m -o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/BarcodesAppDelegate.o0#
+
+CCompileC build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/Database.o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/Database.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343827261.154418
+e343827261.280765
+r1
+xCompileC
+xbuild/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/Database.o
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/Database.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/Database.m343827261#343827261#0(0"0(0#0#92"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/Database.m4532506256#2468"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-generated-files.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-own-target-headers.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-all-target-headers.hmap -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-project-headers.hmap -F/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/include -I../../cpp/core/src -I../ZXingWidget/Classes -I../ZXingWidget/Classes/actions -I../ZXingWidget/Classes/parsedResults -I../ZXingWidget/Classes/resultParsers -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources/i386 -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources -include /var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-cnbibiddkekuyvdpjnpnzctaqfyh/Barcodes_Prefix.pch -c /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/Database.m -o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/Database.o0#
+
+CCompileC build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/MessageViewController.o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/MessageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343827260.824049
+e343827260.970383
+r1
+xCompileC
+xbuild/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/MessageViewController.o
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/MessageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/MessageViewController.m343827260#343827260#0(0"0(0#0#105"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/MessageViewController.m4532506256#2494"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-generated-files.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-own-target-headers.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-all-target-headers.hmap -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-project-headers.hmap -F/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/include -I../../cpp/core/src -I../ZXingWidget/Classes -I../ZXingWidget/Classes/actions -I../ZXingWidget/Classes/parsedResults -I../ZXingWidget/Classes/resultParsers -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources/i386 -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources -include /var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-cnbibiddkekuyvdpjnpnzctaqfyh/Barcodes_Prefix.pch -c /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/MessageViewController.m -o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/MessageViewController.o0#
+
+CCompileC build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/Scan.o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/Scan.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343827261.280880
+e343827261.399819
+r1
+xCompileC
+xbuild/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/Scan.o
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/Scan.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/Scan.m343827261#343827261#0(0"0(0#0#88"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/Scan.m4532506256#2460"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-generated-files.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-own-target-headers.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-all-target-headers.hmap -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-project-headers.hmap -F/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/include -I../../cpp/core/src -I../ZXingWidget/Classes -I../ZXingWidget/Classes/actions -I../ZXingWidget/Classes/parsedResults -I../ZXingWidget/Classes/resultParsers -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources/i386 -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources -include /var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-cnbibiddkekuyvdpjnpnzctaqfyh/Barcodes_Prefix.pch -c /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/Scan.m -o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/Scan.o0#
+
+CCompileC build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ScanCell.o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ScanCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343827261.399940
+e343827261.573535
+r1
+xCompileC
+xbuild/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ScanCell.o
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ScanCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ScanCell.m343827261#343827261#0(0"0(0#0#92"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ScanCell.m4532506256#2468"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-generated-files.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-own-target-headers.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-all-target-headers.hmap -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-project-headers.hmap -F/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/include -I../../cpp/core/src -I../ZXingWidget/Classes -I../ZXingWidget/Classes/actions -I../ZXingWidget/Classes/parsedResults -I../ZXingWidget/Classes/resultParsers -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources/i386 -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources -include /var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-cnbibiddkekuyvdpjnpnzctaqfyh/Barcodes_Prefix.pch -c /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ScanCell.m -o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ScanCell.o0#
+
+CCompileC build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ScanViewController.o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ScanViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343827261.573659
+e343827261.779685
+r1
+xCompileC
+xbuild/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ScanViewController.o
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ScanViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ScanViewController.m343827261#343827261#0(0"0(0#0#102"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ScanViewController.m4532506256#2488"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-generated-files.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-own-target-headers.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-all-target-headers.hmap -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-project-headers.hmap -F/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/include -I../../cpp/core/src -I../ZXingWidget/Classes -I../ZXingWidget/Classes/actions -I../ZXingWidget/Classes/parsedResults -I../ZXingWidget/Classes/resultParsers -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources/i386 -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources -include /var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-cnbibiddkekuyvdpjnpnzctaqfyh/Barcodes_Prefix.pch -c /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ScanViewController.m -o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ScanViewController.o0#
+
+CCompileC build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ZXMainViewController.o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ZXMainViewController.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s343827260.747720
+e343827261.903916
+r1
+xCompileC
+xbuild/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ZXMainViewController.o
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ZXMainViewController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ZXMainViewController.mm343827260#343827261#0(0"0(0#0#105"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ZXMainViewController.mm4532506256#2514"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-generated-files.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-own-target-headers.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-all-target-headers.hmap -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-project-headers.hmap -F/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/include -I../../cpp/core/src -I../ZXingWidget/Classes -I../ZXingWidget/Classes/actions -I../ZXingWidget/Classes/parsedResults -I../ZXingWidget/Classes/resultParsers -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources/i386 -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources -include /var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-hbanotstsyunrlfenligcxpwobfl/Barcodes_Prefix.pch -c /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Classes/ZXMainViewController.mm -o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/ZXMainViewController.o0#
+
+CCompileC build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/main.o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/main.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s343827260.605697
+e343827260.747494
+r1
+xCompileC
+xbuild/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/main.o
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/main.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/main.mm343827260#343827260#0(0"0(0#0#81"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/main.mm4532506256#2474"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-generated-files.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-own-target-headers.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-all-target-headers.hmap -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-project-headers.hmap -F/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/include -I../../cpp/core/src -I../ZXingWidget/Classes -I../ZXingWidget/Classes/actions -I../ZXingWidget/Classes/parsedResults -I../ZXingWidget/Classes/resultParsers -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources/i386 -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources -include /var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-hbanotstsyunrlfenligcxpwobfl/Barcodes_Prefix.pch -c /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/main.mm -o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/MainWindow.xib
+s343827247.093411
+e343827248.398601
+r1
+xCompileXIB
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/MainWindow.xib
+o2011-11-24 19:34:07.438 ibtool[1464:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib343827247#343827248#0(268"2011-11-24 19:34:07.438 ibtool[1464:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#88"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/MainWindow.xib4532506256#676"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/MainWindow.nib /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/ZXMainViewController.xib
+s343827254.823684
+e343827255.580573
+r1
+xCompileXIB
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/ZXMainViewController.xib
+o2011-11-24 19:34:15.106 ibtool[1547:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@35"CompileXIB ZXMainViewController.xib343827254#343827255#0(268"2011-11-24 19:34:15.106 ibtool[1547:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#98"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/ZXMainViewController.xib4532506256#696"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/ZXMainViewController.nib /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/ZXMainViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/DecoderView.xib
+s343827247.112337
+e343827248.392978
+r1
+xCompileXIB
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/DecoderView.xib
+o2011-11-24 19:34:07.335 ibtool[1473:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+o2011-11-24 19:34:07.337 ibtool[1473:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+lSLF07#2@35"CompileXIB de.lproj/DecoderView.xib343827247#343827248#0(368"2011-11-24 19:34:07.335 ibtool[1473:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  2011-11-24 19:34:07.337 ibtool[1473:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  0(0#0#98"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/DecoderView.xib4532506256#696"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj/DecoderView.nib /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/DecoderView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/MainWindow.xib
+s343827251.118887
+e343827251.926557
+r1
+xCompileXIB
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB de.lproj/MainWindow.xib343827251#343827251#0(0"0(0#0#97"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/MainWindow.xib4532506256#694"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj/MainWindow.nib /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/Message.xib
+s343827252.690748
+e343827254.000315
+r1
+xCompileXIB
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/Message.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@31"CompileXIB de.lproj/Message.xib343827252#343827254#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#94"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/Message.xib4532506256#688"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj/Message.nib /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/Message.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/DecoderView.xib
+s343827248.393129
+e343827249.345983
+r1
+xCompileXIB
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/DecoderView.xib
+o2011-11-24 19:34:08.636 ibtool[1476:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+o2011-11-24 19:34:08.638 ibtool[1476:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+lSLF07#2@35"CompileXIB en.lproj/DecoderView.xib343827248#343827249#0(368"2011-11-24 19:34:08.636 ibtool[1476:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  2011-11-24 19:34:08.638 ibtool[1476:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  0(0#0#98"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/DecoderView.xib4532506256#696"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj/DecoderView.nib /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/DecoderView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/MainWindow.xib
+s343827251.217121
+e343827251.967492
+r1
+xCompileXIB
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib343827251#343827251#0(0"0(0#0#97"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/MainWindow.xib4532506256#694"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj/MainWindow.nib /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/Message.xib
+s343827252.699541
+e343827254.020275
+r1
+xCompileXIB
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/Message.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@31"CompileXIB en.lproj/Message.xib343827252#343827254#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#94"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/Message.xib4532506256#688"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj/Message.nib /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/Message.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/DecoderView.xib
+s343827249.346092
+e343827250.240104
+r1
+xCompileXIB
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/DecoderView.xib
+o2011-11-24 19:34:09.573 ibtool[1482:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+o2011-11-24 19:34:09.575 ibtool[1482:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+lSLF07#2@35"CompileXIB fr.lproj/DecoderView.xib343827249#343827250#0(368"2011-11-24 19:34:09.573 ibtool[1482:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  2011-11-24 19:34:09.575 ibtool[1482:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  0(0#0#98"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/DecoderView.xib4532506256#696"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj/DecoderView.nib /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/DecoderView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/MainWindow.xib
+s343827251.967715
+e343827252.690648
+r1
+xCompileXIB
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB fr.lproj/MainWindow.xib343827251#343827252#0(0"0(0#0#97"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/MainWindow.xib4532506256#694"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj/MainWindow.nib /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/Message.xib
+s343827254.020397
+e343827254.720334
+r1
+xCompileXIB
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/Message.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@31"CompileXIB fr.lproj/Message.xib343827254#343827254#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#94"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/Message.xib4532506256#688"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj/Message.nib /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/Message.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/DecoderView.xib
+s343827248.398718
+e343827249.942997
+r1
+xCompileXIB
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/DecoderView.xib
+o2011-11-24 19:34:08.743 ibtool[1477:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+o2011-11-24 19:34:08.745 ibtool[1477:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+lSLF07#2@35"CompileXIB sv.lproj/DecoderView.xib343827248#343827249#0(368"2011-11-24 19:34:08.743 ibtool[1477:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  2011-11-24 19:34:08.745 ibtool[1477:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  0(0#0#98"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/DecoderView.xib4532506256#696"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj/DecoderView.nib /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/DecoderView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/MainWindow.xib
+s343827251.926706
+e343827252.699428
+r1
+xCompileXIB
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB sv.lproj/MainWindow.xib343827251#343827252#0(0"0(0#0#97"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/MainWindow.xib4532506256#694"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj/MainWindow.nib /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/Message.xib
+s343827254.000469
+e343827255.000086
+r1
+xCompileXIB
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/Message.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@31"CompileXIB sv.lproj/Message.xib343827254#343827255#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#94"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/Message.xib4532506256#688"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj/Message.nib /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/Message.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyStringsFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj/InfoPlist.strings de.lproj/InfoPlist.strings
+s343827249.951155
+e343827250.863392
+r1
+xCopyStringsFile
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj/InfoPlist.strings
+xde.lproj/InfoPlist.strings
+lSLF07#2@31"Copy de.lproj/InfoPlist.strings343827249#343827250#0(0"0(0#0#100"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/InfoPlist.strings4532506256#554"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary de.lproj/InfoPlist.strings --outdir /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj0#
+
+CCopyStringsFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj/Localizable.strings de.lproj/Localizable.strings
+s343827250.962826
+e343827251.117298
+r1
+xCopyStringsFile
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj/Localizable.strings
+xde.lproj/Localizable.strings
+lSLF07#2@33"Copy de.lproj/Localizable.strings343827250#343827251#0(0"0(0#0#102"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/Localizable.strings4532506256#556"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary de.lproj/Localizable.strings --outdir /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj0#
+
+CCopyStringsFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+s343827250.240311
+e343827250.743799
+r1
+xCopyStringsFile
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj/InfoPlist.strings
+xen.lproj/InfoPlist.strings
+lSLF07#2@31"Copy en.lproj/InfoPlist.strings343827250#343827250#0(0"0(0#0#100"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/InfoPlist.strings4532506256#554"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/InfoPlist.strings --outdir /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj0#
+
+CCopyStringsFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s343827250.965899
+e343827251.117575
+r1
+xCopyStringsFile
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings343827250#343827251#0(0"0(0#0#102"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/Localizable.strings4532506256#556"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj0#
+
+CCopyStringsFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj/InfoPlist.strings fr.lproj/InfoPlist.strings
+s343827250.863510
+e343827250.965671
+r1
+xCopyStringsFile
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj/InfoPlist.strings
+xfr.lproj/InfoPlist.strings
+lSLF07#2@31"Copy fr.lproj/InfoPlist.strings343827250#343827250#0(0"0(0#0#100"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/InfoPlist.strings4532506256#554"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary fr.lproj/InfoPlist.strings --outdir /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj0#
+
+CCopyStringsFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj/Localizable.strings fr.lproj/Localizable.strings
+s343827250.887118
+e343827250.962716
+r1
+xCopyStringsFile
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj/Localizable.strings
+xfr.lproj/Localizable.strings
+lSLF07#2@33"Copy fr.lproj/Localizable.strings343827250#343827250#0(0"0(0#0#102"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/Localizable.strings4532506256#556"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary fr.lproj/Localizable.strings --outdir /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj0#
+
+CCopyStringsFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj/InfoPlist.strings sv.lproj/InfoPlist.strings
+s343827250.743907
+e343827250.887005
+r1
+xCopyStringsFile
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj/InfoPlist.strings
+xsv.lproj/InfoPlist.strings
+lSLF07#2@31"Copy sv.lproj/InfoPlist.strings343827250#343827250#0(0"0(0#0#100"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/InfoPlist.strings4532506256#554"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary sv.lproj/InfoPlist.strings --outdir /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj0#
+
+CCopyStringsFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj/Localizable.strings sv.lproj/Localizable.strings
+s343827251.117702
+e343827251.217014
+r1
+xCopyStringsFile
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj/Localizable.strings
+xsv.lproj/Localizable.strings
+lSLF07#2@33"Copy sv.lproj/Localizable.strings343827251#343827251#0(0"0(0#0#102"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/Localizable.strings4532506256#556"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary sv.lproj/Localizable.strings --outdir /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/Default.png images/Default.png
+s343827254.722479
+e343827254.901062
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/Default.png
+ximages/Default.png
+lSLF07#2@23"Copy images/Default.png343827254#343827254#0(0"0(0#0#92"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/Default.png4532506256#582"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/Default.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/Default@2x.png images/Default@2x.png
+s343827254.803664
+e343827254.861564
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/Default@2x.png
+ximages/Default@2x.png
+lSLF07#2@26"Copy images/Default@2x.png343827254#343827254#0(0"0(0#0#95"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/Default@2x.png4532506256#585"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/Default@2x.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/LatestResultBackground.png images/LatestResultBackground.png
+s343827254.805857
+e343827254.860275
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/LatestResultBackground.png
+ximages/LatestResultBackground.png
+lSLF07#2@38"Copy images/LatestResultBackground.png343827254#343827254#0(0"0(0#0#107"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/LatestResultBackground.png4532506256#597"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/LatestResultBackground.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/LatestResultBackground@2x.png images/LatestResultBackground@2x.png
+s343827254.809319
+e343827254.848069
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/LatestResultBackground@2x.png
+ximages/LatestResultBackground@2x.png
+lSLF07#2@41"Copy images/LatestResultBackground@2x.png343827254#343827254#0(0"0(0#0#110"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/LatestResultBackground@2x.png4532506256#600"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/LatestResultBackground@2x.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/Scanning.png images/Scanning.png
+s343827255.000188
+e343827255.051767
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/Scanning.png
+ximages/Scanning.png
+lSLF07#2@24"Copy images/Scanning.png343827255#343827255#0(0"0(0#0#93"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/Scanning.png4532506256#583"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/Scanning.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/Scanning@2x.png images/Scanning@2x.png
+s343827255.001612
+e343827255.052039
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/Scanning@2x.png
+ximages/Scanning@2x.png
+lSLF07#2@27"Copy images/Scanning@2x.png343827255#343827255#0(0"0(0#0#96"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/Scanning@2x.png4532506256#586"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/Scanning@2x.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/ZxingLarge.png images/ZxingLarge.png
+s343827247.100032
+e343827247.321508
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/ZxingLarge.png
+ximages/ZxingLarge.png
+lSLF07#2@26"Copy images/ZxingLarge.png343827247#343827247#0(0"0(0#0#95"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/ZxingLarge.png4532506256#585"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/ZxingLarge.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/ZxingLarge@2x.png images/ZxingLarge@2x.png
+s343827254.820535
+e343827254.903218
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/ZxingLarge@2x.png
+ximages/ZxingLarge@2x.png
+lSLF07#2@29"Copy images/ZxingLarge@2x.png343827254#343827254#0(0"0(0#0#98"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/ZxingLarge@2x.png4532506256#588"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/ZxingLarge@2x.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/beep-beep.aiff beep-beep.aiff
+s343827247.101778
+e343827247.388123
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/beep-beep.aiff
+xbeep-beep.aiff
+lSLF07#2@19"Copy beep-beep.aiff343827247#343827247#0(0"0(0#0#88"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/beep-beep.aiff4532506256#578"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/beep-beep.aiff /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/business-card.png images/business-card.png
+s343827254.720477
+e343827254.823144
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/business-card.png
+ximages/business-card.png
+lSLF07#2@29"Copy images/business-card.png343827254#343827254#0(0"0(0#0#98"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/business-card.png4532506256#588"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/business-card.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/clickHere.png images/clickHere.png
+s343827254.811932
+e343827254.846960
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/clickHere.png
+ximages/clickHere.png
+lSLF07#2@25"Copy images/clickHere.png343827254#343827254#0(0"0(0#0#94"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/clickHere.png4532506256#584"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/clickHere.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/de.lproj/About.html de.lproj/About.html
+s343827247.103733
+e343827247.311690
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/de.lproj/About.html
+xde.lproj/About.html
+lSLF07#2@24"Copy de.lproj/About.html343827247#343827247#0(0"0(0#0#93"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/About.html4532506256#592"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/About.html /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/de.lproj/Hints.html de.lproj/Hints.html
+s343827249.943141
+e343827250.015678
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/de.lproj/Hints.html
+xde.lproj/Hints.html
+lSLF07#2@24"Copy de.lproj/Hints.html343827249#343827250#0(0"0(0#0#93"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/Hints.html4532506256#592"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/de.lproj/Hints.html /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/de.lproj0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/email.png images/email.png
+s343827254.724439
+e343827254.800986
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/email.png
+ximages/email.png
+lSLF07#2@21"Copy images/email.png343827254#343827254#0(0"0(0#0#90"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/email.png4532506256#580"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/email.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/en.lproj/About.html en.lproj/About.html
+s343827247.105951
+e343827247.312165
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/en.lproj/About.html
+xen.lproj/About.html
+lSLF07#2@24"Copy en.lproj/About.html343827247#343827247#0(0"0(0#0#93"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/About.html4532506256#592"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/About.html /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/en.lproj/Hints.html en.lproj/Hints.html
+s343827249.944894
+e343827250.018903
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/en.lproj/Hints.html
+xen.lproj/Hints.html
+lSLF07#2@24"Copy en.lproj/Hints.html343827249#343827250#0(0"0(0#0#93"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/Hints.html4532506256#592"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/en.lproj/Hints.html /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/filmroll-2.png images/filmroll-2.png
+s343827254.726365
+e343827254.801136
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/filmroll-2.png
+ximages/filmroll-2.png
+lSLF07#2@26"Copy images/filmroll-2.png343827254#343827254#0(0"0(0#0#95"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/filmroll-2.png4532506256#585"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/filmroll-2.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/fr.lproj/About.html fr.lproj/About.html
+s343827247.110373
+e343827247.312594
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/fr.lproj/About.html
+xfr.lproj/About.html
+lSLF07#2@24"Copy fr.lproj/About.html343827247#343827247#0(0"0(0#0#93"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/About.html4532506256#592"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/About.html /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/fr.lproj/Hints.html fr.lproj/Hints.html
+s343827249.949099
+e343827250.020833
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/fr.lproj/Hints.html
+xfr.lproj/Hints.html
+lSLF07#2@24"Copy fr.lproj/Hints.html343827249#343827250#0(0"0(0#0#93"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/Hints.html4532506256#592"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/fr.lproj/Hints.html /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/fr.lproj0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/icon.png images/icon.png
+s343827247.094524
+e343827247.313232
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/icon.png
+ximages/icon.png
+lSLF07#2@20"Copy images/icon.png343827247#343827247#0(0"0(0#0#89"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/icon.png4532506256#579"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/icon.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/icon@2x.png images/icon@2x.png
+s343827247.098194
+e343827247.311492
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/icon@2x.png
+ximages/icon@2x.png
+lSLF07#2@23"Copy images/icon@2x.png343827247#343827247#0(0"0(0#0#92"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/icon@2x.png4532506256#582"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/icon@2x.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/link1.png images/link1.png
+s343827254.728301
+e343827254.795796
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/link1.png
+ximages/link1.png
+lSLF07#2@21"Copy images/link1.png343827254#343827254#0(0"0(0#0#90"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/link1.png4532506256#580"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/link1.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/link2.png images/link2.png
+s343827254.730318
+e343827254.811842
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/link2.png
+ximages/link2.png
+lSLF07#2@21"Copy images/link2.png343827254#343827254#0(0"0(0#0#90"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/link2.png4532506256#580"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/link2.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/map-pin.png images/map-pin.png
+s343827254.732368
+e343827254.801268
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/map-pin.png
+ximages/map-pin.png
+lSLF07#2@23"Copy images/map-pin.png343827254#343827254#0(0"0(0#0#92"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/map-pin.png4532506256#582"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/map-pin.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/phone.png images/phone.png
+s343827254.734414
+e343827254.798177
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/phone.png
+ximages/phone.png
+lSLF07#2@21"Copy images/phone.png343827254#343827254#0(0"0(0#0#90"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/phone.png4532506256#580"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/phone.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/photolib.png images/photolib.png
+s343827254.736480
+e343827254.801397
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/photolib.png
+ximages/photolib.png
+lSLF07#2@24"Copy images/photolib.png343827254#343827254#0(0"0(0#0#93"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/photolib.png4532506256#583"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/photolib.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/scans.db scans.db
+s343827254.801479
+e343827254.820434
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/scans.db
+xscans.db
+lSLF07#2@13"Copy scans.db343827254#343827254#0(0"0(0#0#82"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/scans.db4532506256#572"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/scans.db /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/sms.png images/sms.png
+s343827254.795900
+e343827254.823462
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/sms.png
+ximages/sms.png
+lSLF07#2@19"Copy images/sms.png343827254#343827254#0(0"0(0#0#88"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/sms.png4532506256#578"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/sms.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/sv.lproj/About.html sv.lproj/About.html
+s343827247.108522
+e343827247.322613
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/sv.lproj/About.html
+xsv.lproj/About.html
+lSLF07#2@24"Copy sv.lproj/About.html343827247#343827247#0(0"0(0#0#93"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/About.html4532506256#592"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/About.html /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/sv.lproj/Hints.html sv.lproj/Hints.html
+s343827249.946977
+e343827250.013010
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/sv.lproj/Hints.html
+xsv.lproj/Hints.html
+lSLF07#2@24"Copy sv.lproj/Hints.html343827249#343827250#0(0"0(0#0#93"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/Hints.html4532506256#592"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/sv.lproj/Hints.html /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/sv.lproj0#
+
+CCpResource build/Debug-iphonesimulator/Barcodes.app/text.png images/text.png
+s343827254.798267
+e343827254.823604
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Barcodes.app/text.png
+ximages/text.png
+lSLF07#2@20"Copy images/text.png343827254#343827254#0(0"0(0#0#89"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/text.png4532506256#579"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/images/text.png /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app0#
+
+CGenerateDSYMFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app.dSYM /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/Barcodes
+r0
+
+CLd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/Barcodes normal i386
+s343827680.790716
+e343827680.808637
+r0
+xLd
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/Barcodes
+xnormal
+xi386
+oi686-apple-darwin10-g++-4.2.1: /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/ZXingWidget/build/Debug-iphonesimulator/libZXingWidget.a: No such file or directory
+lSLF07#2@128"Link /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/Barcodes343827680#343827680#0(284"i686-apple-darwin10-g++-4.2.1: /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/ZXingWidget/build/Debug-iphonesimulator/libZXingWidget.a: No such file or directoryCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 failed with exit code 1343827680#18446744073709551615#0#0(1@0"0(0#0#0"4424302224#1374"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator -F/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator -filelist /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Objects-normal/i386/Barcodes.LinkFileList -mmacosx-version-min=10.6 -all_load -Objc -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/ZXingWidget/build/Debug-iphonesimulator/libZXingWidget.a -framework AudioToolbox -liconv -framework AVFoundation -framework CoreVideo -framework CoreMedia -framework AddressBook -framework AddressBookUI -lsqlite3 -o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/Barcodes1#
+
+CProcessInfoPlistFile /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/Info.plist Barcodes-Info.plist
+s343827247.021648
+e343827247.093292
+r1
+xProcessInfoPlistFile
+x/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/Info.plist
+xBarcodes-Info.plist
+lSLF07#2@27"Process Barcodes-Info.plist343827247#343827247#0(0"0(0#0#93"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Barcodes-Info.plist4532506368#587"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Barcodes-Info.plist -genpkginfo /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app/Info.plist0#
+
+CProcessPCH /var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-cnbibiddkekuyvdpjnpnzctaqfyh/Barcodes_Prefix.pch.gch Barcodes_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s343827255.583199
+e343827260.605484
+r1
+xProcessPCH
+x/var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-cnbibiddkekuyvdpjnpnzctaqfyh/Barcodes_Prefix.pch.gch
+xBarcodes_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Barcodes_Prefix.pch343827255#343827260#0(0"0(0#0#93"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Barcodes_Prefix.pch4532506256#2308"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-generated-files.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-own-target-headers.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-all-target-headers.hmap -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-project-headers.hmap -F/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/include -I../../cpp/core/src -I../ZXingWidget/Classes -I../ZXingWidget/Classes/actions -I../ZXingWidget/Classes/parsedResults -I../ZXingWidget/Classes/resultParsers -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources/i386 -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources -c /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Barcodes_Prefix.pch -o /var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-cnbibiddkekuyvdpjnpnzctaqfyh/Barcodes_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-hbanotstsyunrlfenligcxpwobfl/Barcodes_Prefix.pch.gch Barcodes_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s343827255.580795
+e343827258.248621
+r1
+xProcessPCH++
+x/var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-hbanotstsyunrlfenligcxpwobfl/Barcodes_Prefix.pch.gch
+xBarcodes_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Barcodes_Prefix.pch343827255#343827258#0(0"0(0#0#93"/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Barcodes_Prefix.pch4532506256#2329"    cd /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-generated-files.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-own-target-headers.hmap -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-all-target-headers.hmap -iquote /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/Barcodes-project-headers.hmap -F/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/include -I../../cpp/core/src -I../ZXingWidget/Classes -I../ZXingWidget/Classes/actions -I../ZXingWidget/Classes/parsedResults -I../ZXingWidget/Classes/resultParsers -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources/i386 -I/Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Barcodes.build/Debug-iphonesimulator/Barcodes.build/DerivedSources -c /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/Barcodes_Prefix.pch -o /var/folders/20/qzk4xw5d24g3znfrgk31gz440000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Barcodes_Prefix-hbanotstsyunrlfenligcxpwobfl/Barcodes_Prefix.pch.gch0#
+
+CTouch /Users/ouyangjichao/Documents/Develop/python-taobao/zxing/iphone/Barcodes/build/Debug-iphonesimulator/Barcodes.app
+r0
+
